@@ -1,0 +1,69 @@
+{
+  "status": "ok",
+  "totalResults": 6,
+  "articles": [
+    {
+      "source": { "id": "news-com-au", "name": "News.com.au" },
+      "author": null,
+      "title": "Star cricketer asked wife to help him end life",
+      "description": "England cricket star Graham Thorpe asked his wife to help him end his life in a Swiss clinic before he died by suicide, an inquest heard.",
+      "url": "https://www.news.com.au/sport/cricket/star-cricketer-asked-wife-to-help-him-end-life/news-story/c8abd898a3c1c74a5196410d4a4695eb",
+      "urlToImage": "https://content.api.news/v3/images/bin/980417f955aaecf63dadc8cfa0d79c9e",
+      "publishedAt": "2025-07-23T16:48:00Z",
+      "content": "England cricket star Graham Thorpe asked his wife to help him end his life in a Swiss clinic before he died by suicide, an inquest heard.\r\nThe dad, 55, was found dead on August 4 after a heartbreakin… [+2993 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Graham Thorpe 'spiralled into depression' after losing ECB job",
+      "description": "An inquest is told the former cricketer was diagnosed with anxiety and depression in 2018.",
+      "url": "https://www.bbc.co.uk/news/articles/c62gpdw311xo",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ee7d/live/12682a00-67c5-11f0-89ea-4d6f9851f623.png",
+      "publishedAt": "2025-07-23T16:07:30.2671029Z",
+      "content": "Mrs Thorpe said that up until 2020 there were no psychological issues in particular, apart from \"a bout of depression\" in 2018 which did not affect his job.\r\nHer statement went on to address an incid… [+1053 chars]"
+    },
+    {
+      "source": { "id": "bbc-sport", "name": "BBC Sport" },
+      "author": null,
+      "title": "England vs India cricket LIVE: Fourth Test, day one, Old Trafford - scores, radio & highlights",
+      "description": "England face India in the fourth Test at Old Trafford - follow live scores, radio commentary, video highlights and updates.",
+      "url": "http://www.bbc.co.uk/sport/cricket/live/c1me134prvnt",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/e008/live/324b7ce0-67a8-11f0-8dbd-f3d32ebd3327.jpg",
+      "publishedAt": "2025-07-23T10:22:18.1422992Z",
+      "content": "England: Zak Crawley, Ben Duckett, Ollie Pope, Joe Root, Harry Brook, Ben Stokes (captain), Jamie Smith (wicketkeeper), Chris Woakes , Brydon Carse, Jofra Archer, Liam Dawson\r\nIndia: Yashasvi Jaiswal… [+175 chars]"
+    },
+    {
+      "source": {
+        "id": "australian-financial-review",
+        "name": "Australian Financial Review"
+      },
+      "author": "Myriam Robin",
+      "title": "Prestigious MCC members asked to consider ‘generational change’",
+      "description": "The Melbourne Cricket Club’s lengthy waiting list ensures people are middle-aged before they have a hope of getting in.",
+      "url": "http://www.afr.com/rear-window/prestigious-mcc-members-asked-to-consider-generational-change-20250723-p5mh77",
+      "urlToImage": "https://static.ffx.io/images/$zoom_0.2838%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_103%2C$y_158/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/26dd588a65aab3c520b7c5e2de7a1f827e708eb8",
+      "publishedAt": "2025-07-23T06:45:27Z",
+      "content": "The highly prestigious Melbourne Cricket Club committee is chaired by ex-Transurban and UBS operative Fred Oldfield and totally stacked with luminaries like Goldman Sachs investment banking head Chri… [+667 chars]"
+    },
+    {
+      "source": { "id": "espn-cric-info", "name": "ESPN Cric Info" },
+      "author": null,
+      "title": "PCB hands Umar Akmal three-year ban from all cricket | ESPNcricinfo.com",
+      "description": "Penalty after the batsman pleaded guilty to not reporting corrupt approaches | ESPNcricinfo.com",
+      "url": "http://www.espncricinfo.com/story/_/id/29103103/pcb-hands-umar-akmal-three-year-ban-all-cricket",
+      "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1099495_800x450.jpg",
+      "publishedAt": "2020-04-27T11:41:47Z",
+      "content": "Umar Akmal's troubled cricket career has hit its biggest roadblock yet, with the PCB handing him a ban from all representative cricket for three years after he pleaded guilty of failing to report det… [+1506 chars]"
+    },
+    {
+      "source": { "id": "espn-cric-info", "name": "ESPN Cric Info" },
+      "author": null,
+      "title": "What we learned from watching the 1992 World Cup final in full again | ESPNcricinfo.com",
+      "description": "Wides, lbw calls, swing - plenty of things were different in white-ball cricket back then | ESPNcricinfo.com",
+      "url": "http://www.espncricinfo.com/story/_/id/28970907/learned-watching-1992-world-cup-final-full-again",
+      "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1219926_1296x729.jpg",
+      "publishedAt": "2020-03-30T15:26:05Z",
+      "content": "Last week, we at ESPNcricinfo did something we have been thinking of doing for eight years now: pretend-live ball-by-ball commentary for a classic cricket match. We knew the result, yes, but we tried… [+6823 chars]"
+    }
+  ]
+}
