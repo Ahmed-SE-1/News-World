@@ -37,15 +37,11 @@ export default class Newscomponent extends Component {
     this.props.setProgress(10);
     const { country, category, pageSize } = this.props;
     const { page } = this.state;
-    let url = `https://newsapi.org/v2/top-headlines?country=${country}&category=${category}&apiKey=5e301d61782447c29668a467994b4401&page=${page}&pageSize=${pageSize}`;
+    let url = `http://localhost:5000/api/news?country=${country}&category=${category}&page=${page}&pageSize=${pageSize}`;
     this.setState({ loading: true });
-
+  
     try {
-      let data = await fetch(url, {
-        headers: {
-          'User-Agent': 'Mozilla/5.0'
-        }
-      });
+      let data = await fetch(url);
       this.props.setProgress(30);
       let parsedData = await data.json();
       this.props.setProgress(70);
